@@ -1,0 +1,64 @@
+#heading{
+    color: antiquewhite;
+    font-size: 35px;
+    font-weight: bold;
+    padding-left: 35px;
+    font-family: 'Roboto Slab', serif;
+}
+.subHeading{
+    color: black;
+    font-size: 35px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+    display: inline-block;
+}
+.topAddIco{
+    color: black;
+    font-size: 38px;
+}
+
+body{
+    background-image: url(https://thumbs.dreamstime.com/b/black-white-repeating-torn-newspaper-background-continuous-pattern-left-right-up-down-black-white-repeating-torn-133864679.jpg) ;
+    
+}
+.footerNav{
+    position: relative;
+    top: 100px;
+    height: 300px;
+}
+
+.mid{
+    margin: 80px;
+    width: 40%;
+    
+}
+
+
+.form-label{
+    font-size: 30px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bolder;
+
+    
+}
+.footer{
+    height: 80px;
+    color: antiquewhite;
+    font-family: 'Roboto Slab', serif;
+    margin: 35px;
+    
+}
+
+#searchButton{
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    font-weight: bolder;
+    width:100%;
+    position: relative;
+    top: 30px;
+
+}
+
+.header{
+    height: 150px;
+}
