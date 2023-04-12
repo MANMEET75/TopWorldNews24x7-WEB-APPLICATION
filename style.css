@@ -1,0 +1,190 @@
+#heading{
+    color: antiquewhite;
+    font-size: 65px;
+    font-weight: bold;
+    padding-left: 35px;
+    font-family: 'Roboto Slab', serif;
+}
+.topNav{
+    height: 150px;
+    background-color: #000;
+}
+
+.subHeading{
+    color: #dc3545;
+    font-size: 35px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.btn{
+    background-color: #000;
+}
+.topAddIco{
+    color: #dc3545;
+    font-size: 80px;
+}
+
+body{
+    background-image: url(https://thumbs.dreamstime.com/b/black-white-repeating-torn-newspaper-background-continuous-pattern-left-right-up-down-black-white-repeating-torn-133864679.jpg) ;
+    
+}
+.footerNav{
+    position: relative;
+    top: 100px;
+    height: 300px;
+}
+#searchButton{
+    background-color: #000;
+    color: #dc3545;
+}
+
+.mid{
+    margin:100px;
+    width: 50%;
+    
+}
+
+
+.form-label{
+    font-size: 30px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bolder;
+
+    
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 9999;
+    color: #dc3545;
+    height: 200px;
+    background-color: #000;
+}
+
+
+footer p{
+    font-size: 25px;
+    position: relative;
+    text-align: center;
+    padding-right: 50px;
+}
+#searchButton{
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    font-weight: bolder;
+    width:100%;
+    position: relative;
+    top: 30px;
+
+}
+
+.header{
+    height: 150px;
+}
+
+
+
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    position: relative;
+}
+
+.footer-col {
+    margin: 20px;
+    width: 30%;
+    position: relative;
+    left: 15px;
+    color: white;
+}
+
+.footer-col h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.footer-col p {
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+.footer-col ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-col li {
+    line-height: 1.5;
+}
+
+.social-icons {
+    display: flex;
+    position: relative;
+    right: 120px;
+    top: 15px;
+    width: 20%;
+}
+
+
+
+.fa-facebook {
+    color: #1A73E8;
+}
+
+
+.fa-instagram {
+    color: #ee3ad6;
+}
+
+.fa-twitter {
+    color: #1DA1F2;
+}
+
+.fa-linkedin {
+    color: #0077B5;
+}
+
+.fa-map-marker {
+    color: #2ECC40;
+}
+
+.fa-phone {
+    color: #145e1d;
+}
+
+.fa-envelope {
+    color: #ffcd2a;
+}
+
+.fa-telegram{
+    color: #0088cc;
+}
+.fa-discord{
+    color: #7289da;
+}
+.fa-youtube{
+    color: #FF0000;
+}
+
+.social-icons li {
+    margin-right: 10px;
+}
+
+.social-icons li:last-child {
+    margin-right: 0;
+}
+
+.social-icons a {
+    color: #333;
+    font-size: 24px;
+}
+
+.social-icons a:hover {
+    color: #000;
+}
+
