@@ -22,4 +22,6 @@ To run this web application on your local machine, follow these steps:
 ```bash
   nodemon app.js
 ```
-5. Open a browser and type "localhost:3000" to access the application.
+5. Open a browser and type "localhost:3000" to use the application.
+
+To check the latest news for different countries, you can use Google to find the correct country code. This will ensure that you receive accurate news updates for the selected country.
